@@ -68,7 +68,6 @@ figure.highlight table {
 }
 figure.highlight .gutter {
   color: color-meta;
-  padding-right: 15px;
   border-right: 1px solid color-border;
   text-align: right;
 }
@@ -148,5 +147,5 @@ pre .deletion {
   color: #dc322f;
 }
 .gutter {
-  width: 70px;
+  width: 45px;
 }

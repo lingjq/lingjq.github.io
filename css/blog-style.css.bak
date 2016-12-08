@@ -492,7 +492,7 @@ a:focus {
     font-weight: 400;
 }
 .post-preview .post-meta {
-    color: #a0a0a0;
+    color: #808080;
     font-size: 12px;
     margin:0;
     padding-left: 2px;
@@ -521,7 +521,7 @@ a:focus {
 }
 
 .post-content-preview p {
-    color: #bfbfbf;
+    color: #555;
 }
 
 .section-heading {
